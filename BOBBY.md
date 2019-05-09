@@ -1,3 +1,3 @@
 # Here are some words
-The quick brown fox jumps over the lazy dog
 * Wouldn't it be nice to have my inkscape projects on here?
+* Might also be nice to have some of my graphs and data visualisation on here too
